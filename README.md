@@ -13,7 +13,7 @@ image influence the model's prediction.
 
 <img src="pizza.jpg" alt="Original pizza slice" width="350"/>
 
-### Grad-CAM Overlay
+### Output Image :- Grad-CAM Overlay
 
 <img src="gradcam_overlay.png" alt="Grad-CAM overlay on pizza slice" width="350"/>
 

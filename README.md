@@ -7,15 +7,15 @@ image influence the model's prediction.
 
 ------------------------------------------------------------------------
 
-## Demo
+# Demo
 
 ### Input Image
 
-`<img src="pizza.jpg" alt="Original pizza slice" width="350"/>`{=html}
+<img src="pizza.jpg" alt="Original pizza slice" width="350"/>
 
 ### Grad-CAM Overlay
 
-`<img src="gradcam_overlay.png" alt="Grad-CAM overlay on pizza slice" width="350"/>`{=html}
+<img src="gradcam_overlay.png" alt="Grad-CAM overlay on pizza slice" width="350"/>
 
 ------------------------------------------------------------------------
 

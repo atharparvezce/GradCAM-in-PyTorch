@@ -14,8 +14,6 @@ This repository demonstrates how to apply **Grad-CAM** (Gradient-weighted Class 
 
 <img src="gradcam_overlay.png" alt="Grad-CAM overlay on pizza slice" width="350"/>
 
-> 🔧 Make sure `pizza.jpg` and `gradcam_overlay.png` are in the repository (or update these paths if you use different names).
-
 ---
 
 ## How It Works

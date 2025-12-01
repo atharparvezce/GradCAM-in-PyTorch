@@ -9,13 +9,10 @@ image influence the model's prediction.
 
 # Demo
 
-### Input Image
+| Input Image | Grad-CAM Output |
+|-------------|-----------------|
+| <img src="pizza.jpg" width="350"> | <img src="gradcam_overlay.png" width="350"> |
 
-<img src="pizza.jpg" alt="Original pizza slice" width="350"/>
-
-### Output Image :- Grad-CAM Overlay
-
-<img src="gradcam_overlay.png" alt="Grad-CAM overlay on pizza slice" width="350"/>
 
 ------------------------------------------------------------------------
 
